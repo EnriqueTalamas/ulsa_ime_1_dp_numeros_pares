@@ -32,7 +32,6 @@ __Que son 5 numeros___
 ## 4. Casos resueltos a mano (Fase 1)
 
 | Caso | Números | Pares guardados | Posición de cada par |
-|---|---|---|---|
 | 1 | 3, 8, 5, 2, 7 | _8,2____ | __0,1___ |
 | 2 | _2,4,6,5,7____ | _2,4,6____ | _0,1,2____ |
 | 3 | _1,2,8,6,4____ | _2,8,6,4____ | _0,1,2,3____ |
